@@ -1,0 +1,14 @@
+Deliverables:
+
+Radius search map x
+POI top 10 within 50 meters plot x
+Time series plots x
+Neighborhood based call rate (using polygons and population + call count)
+Roads call density
+Heatmap of calls by type editing x
+
+TODO:
+Fix heatmap to look nicer (opacity, detection radius)
+Perform road calls density analysis 
+Put all this on the site
+Neighborhood based call rate (using polygons and population + call count)
